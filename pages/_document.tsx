@@ -1,7 +1,6 @@
 import { Html, Head, Main, NextScript } from "next/document";
 
 export default function Document() {
-  //console.log("DOCUMENT - PAGES ROUTER");
   return (
     <Html lang="en">
       <Head>
@@ -15,7 +14,7 @@ export default function Document() {
           name="keyword"
           content={"nestar, nestar.uz, mern nestjs fullstack"}
         />
-        <meta
+        <meta 
           name="description"
           content={
             "Buy and sell properties anywhere anytime in South Korea. | " +
