@@ -14,7 +14,7 @@ export default function Document() {
           name="keyword"
           content={"nestar, nestar.uz, mern nestjs fullstack"}
         />
-        <meta 
+        <meta
           name="description"
           content={
             "Buy and sell properties anywhere anytime in South Korea. | " +
