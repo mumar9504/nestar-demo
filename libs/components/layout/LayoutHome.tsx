@@ -3,6 +3,9 @@ import Head from "next/head";
 import Top from "../Top";
 import Footer from "../Footer";
 import HeaderFilter from "../homepage/HeaderFilter";
+import "swiper/css";
+import "swiper/css/navigation";
+import "swiper/css/pagination";
 
 const withLayoutMain = (Component: any) => {
   return (props: any) => {

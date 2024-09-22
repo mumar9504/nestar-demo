@@ -25,7 +25,6 @@ const Top = () => {
             <Link href={"/community?articleCategory=FREE"}>
               <div>Community</div>
             </Link>
-
             <Link href={"/cs"}>
               <div>CS</div>
             </Link>
